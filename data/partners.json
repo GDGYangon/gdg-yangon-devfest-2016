@@ -1,72 +1,107 @@
 [
   {
-    "title": "template-creator",
+    "title": "general-partner",
     "logos": [
       {
-        "name": "GDG Lviv",
-        "url": "https://plus.google.com/102444623953913144164",
-        "logoUrl": "../images/logos/gdg-lviv.svg",
+        "name": "Google",
+        "url": "http://google.com.mm",
+        "logoUrl": "../images/logos/google.svg",
         "width": 170
       }
     ]
   },
   {
-    "title": "general-partner",
+    "title": "diamond-partner",
     "logos": [
       {
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg"
+        "name": "Telenor",
+        "url": "http://telenor.com.mm",
+        "logoUrl": "../images/logos/telenor.png",
+        "width": 170
+      }
+    ]
+  },
+  {
+    "title": "platinum-sponsor",
+    "logos": [
+      {
+        "name": "Flymya.com",
+        "url": "https://flymya.com",
+        "logoUrl": "../images/logos/flymya-bod.png",
+        "width": 170
+      }
+    ]
+  },
+  {
+    "title": "venue-sponsor",
+    "logos": [
+      {
+        "name": "MCF SIDC",
+        "url": "http://www.mcfmyanmar.org",
+        "logoUrl": "../images/logos/mcf.jpg",
+        "width": 170
+      }
+    ]
+  },
+  {
+    "title": "gold-sponsor",
+    "logos": [
+      {
+        "name": "Star Ticket",
+        "url": "http://www.starticket.com.mm/",
+        "logoUrl": "../images/logos/starticket.png",
+        "width": 170
+      },
+       {
+        "name": "Chate Sat",
+        "url": "http://chatesat.com",
+        "logoUrl": "../images/logos/chatesat.png",
+        "width": 170
+      }
+    ]
+  },
+ {
+    "title": "media-partner",
+    "logos": [
+      {
+        "name": "MRTV-4",
+        "url": "http://www.mrtv4.com.mm",
+        "logoUrl": "../images/logos/MRTV-4.png"
+      },
+       {
+        "name": "Channel 7",
+        "url": "https://www.facebook.com/Channel7Myanmar",
+        "logoUrl": "../images/logos/Channel7.png"
+      },
+       {
+        "name": "Mandalay FM",
+        "url": "http://www.mandalayfm.com",
+        "logoUrl": "../images/logos/mandalayfm.png"
       },
       {
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/logos/gdg-x.svg"
+        "name": "Pyone Play",
+        "url": "http://pyoneplay.com",
+        "logoUrl": "../images/logos/pyoneplay.png"
+      }
+    ]
+  },
+  {
+    "title": "community-partner",
+    "logos": [
+      {
+        "name": "Phandeeyar",
+        "url": "http://www.phandeeyar.org",
+        "logoUrl": "../images/logos/phandeeyar.png"
+      },
+       {
+        "name": "Kanaung Hub",
+        "url": "http://kanaunghub.com",
+        "logoUrl": "../images/logos/kanaunghub.png"
       },
       {
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg"
-      },
-      {
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/logos/gdg-x.svg"
-      },
-      {
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg"
-      },
-      {
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/logos/gdg-x.svg"
-      },
-      {
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg"
-      },
-      {
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/logos/gdg-x.svg"
-      },
-      {
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg"
-      },
-      {
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/logos/gdg-x.svg"
-      },
-      {
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg"
+        "name": "Women Techmakers Yangon",
+        "url": "http://womentechmakers.com",
+        "logoUrl": "../images/logos/wt.png"
       }
     ]
   }
