@@ -2,15 +2,10 @@
   "pages": {
     "home": {
       "headerSettings": {
-        "backgroundColor": "#FF9800",
-        "backgroundImage": "/images/backgrounds/home.png",
+        "backgroundColor": "#00BCD4",
+        "backgroundImage": "/images/backgrounds/home.jpeg",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
-        "video": {
-          "title": "GDG DevFest Ukraine 2016",
-          "youtubeId": "DfMnJAzOFng",
-          "text": "See how it was in 2015"
-        },
         "hideLogo": true,
         "minHeight": "360px"
       }
@@ -56,29 +51,14 @@
       "route": "home",
       "permalink": "/"
     },
-    {
-      "route": "blog",
-      "permalink": "/blog/"
-    },
-    {
-      "route": "schedule",
-      "permalink": "/schedule/"
-    },
-    {
-      "route": "speakers",
-      "permalink": "/speakers/"
-    },
-    {
-      "route": "team",
-      "permalink": "/team/"
-    }
+    
   ],
   "url": "https://hoverboard.firebaseapp.com/",
   "mailchimp": {
     "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
     "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
   },
-  "partnershipProposition": "http://bit.ly/df16-sponsor",
+  "partnershipProposition": "https://goo.gl/FQAC0s",
   "disqusShortName": "hoverboard-gdg-x",
   "languages": [
     {
@@ -129,12 +109,12 @@
       "links": [
         {
           "text": "partnership-proposition",
-          "url": "http://bit.ly/df16-sponsor",
+          "url": "",
           "newTab": true
         },
         {
           "text": "media-kit",
-          "url": "http://bit.ly/df16-media",
+          "url": "",
           "newTab": true
         }
       ]
@@ -143,27 +123,27 @@
   "contactBlock": {
     "links": [
       {
-        "text": "devfest@google.com",
-        "url": "mailto:devfest@google.com"
+        "text": "gdgyangon@gmail.com",
+        "url": "mailto:gdgyangon@gmail.com"
       }
     ]
   },
   "tickets": {
-    "url": "http://2event.com/events/630032",
+    "url": "https://goo.gl/RhqdMO",
     "elements": [
       {
         "name": "student-ticket",
-        "price": 500,
-        "currency": "₴",
+        "price": 5000,
+        "currency": "Ks",
         "starts": "student-ticket-starts",
         "ends": "student-ticket-ends",
         "info": "student-ticket-info",
-        "soldOut": false
+        "soldOut": true
       },
       {
         "name": "early-ticket",
-        "price": 750,
-        "currency": "₴",
+        "price": 10000,
+        "currency": "Ks",
         "starts": "early-ticket-starts",
         "ends": "early-ticket-ends",
         "info": "early-ticket-info",
@@ -171,11 +151,11 @@
       },
       {
         "name": "lazy-ticket",
-        "price": 1000,
-        "currency": "₴",
+        "price": 20000,
+        "currency": "Ks",
         "starts": "lazy-ticket-starts",
         "ends": "lazy-ticket-ends",
-        "soldOut": false
+        "soldOut": true
       }
     ]
   },
@@ -183,7 +163,7 @@
   "teamPageText": "team-page-text",
   "statistics": [
     {
-      "counter": 600,
+      "counter": 400,
       "caption": "attendees"
     },
     {
@@ -191,20 +171,20 @@
       "caption": "days"
     },
     {
-      "counter": 30,
+      "counter": 20,
       "caption": "sessions"
     },
     {
-      "counter": 3,
+      "counter": 2,
       "caption": "tracks"
     }
   ],
-  "hashtag": "dfua",
+  "hashtag": "DEVFESTMM",
   "social": [
     {
       "name": "twitter",
-      "nickname": "GDGLviv",
-      "url": "https://twitter.com/gdglviv"
+      "nickname": "GDGYangon",
+      "url": "https://twitter.com/gdgyangon"
     },
     {
       "name": "gplus",
@@ -213,13 +193,8 @@
     },
     {
       "name": "facebook",
-      "nickname": "GDGLviv",
-      "url": "https://www.facebook.com/GDGLviv"
-    },
-    {
-      "name": "linkedin",
-      "nickname": "google-developers-group-lviv",
-      "url": "https://www.linkedin.com/company/google-developers-group-lviv"
+      "nickname": "GDGYangon",
+      "url": "https://www.facebook.com/gdgyangon"
     }
   ],
   "tweetsSource": "/data/tweets.json",
@@ -235,23 +210,23 @@
   },
   "location": {
     "apiKey": "",
-    "link": "https://www.facebook.com/expopivdennij",
+    "link": "",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": 16.850132,
+      "longitude": 96.128514,
       "zoom": 15
     },
     "mapCenter": {
-      "latitude": 49.809841,
-      "longitude": 23.982805
+      "latitude": 16.850132,
+      "longitude": 96.128514
     },
     "images": [
       "/images/backgrounds/location_1.jpg",
       "/images/backgrounds/location_2.jpg",
-      "/images/backgrounds/location_3.jpg"
+      "/images/backgrounds/location_3.jpeg"
     ]
   },
-  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
+
   "callToAction": {
     "videoTitle": "action-title",
     "videoId": "DfMnJAzOFng"

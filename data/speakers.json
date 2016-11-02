@@ -1,49 +1,593 @@
 {
-  "1": {
-    "badges": [
-      {
-        "description": "Android Google Developer Expert",
-        "link": "https://developers.google.com/experts/people/yonatan-levin.html",
-        "name": "GDE"
-      }
-    ],
-    "bio": "Born with the spirit of an entrepreneur, Yonatan loves to create, build and just do fun stuff in the technology field.\nYonatan is one of the top Israeli mobile developers, who is also a part of an elite worldwide group of Google Developer Experts.\nHis primary expertise is Android and Mobile UX, but is also friendly to backend technologies and people in general :)\nFounded and led 3 startups in the past, recently received funding for his new startup which is on the make.\nCurrently, Yonatan is taking a part of the startup Gett - the largest on-demand transportation, delivery, and logistics company which already raised more than $500M",
-    "company": "Gett",
-    "companyLogo": "/images/logos/gdg-lviv.svg",
-    "country": "Tel Aviv, Israel",
-    "featured": "true",
-    "id": 1,
-    "name": "Yonatan Levin",
-    "photoUrl": "/images/people/yonatan_levin.jpg",
-    "shortBio": "Born with the spirit of an entrepreneur, Yonatan loves to create, build and just do fun stuff in...",
-    "socials": [
-      {
-        "icon": "facebook",
-        "link": "https://www.facebook.com/levin.yonatan",
-        "name": "Facebook"
-      },
-      {
-        "icon": "twitter",
-        "link": "https://twitter.com/parahall",
-        "name": "Twitter"
-      },
-      {
-        "icon": "gplus",
-        "link": "https://plus.google.com/+YonatanLevin",
-        "name": "Google+"
-      },
-      {
-        "icon": "github",
-        "link": "https://github.com/meteatamel/",
-        "name": "GitHub"
-      }
-    ],
-    "tags": [
-      "Android",
-      "Doze",
-      "Mobile UX",
-      "Entrepreneurship"
-    ],
-    "title": "Android Evangelist & Developer"
-  }
+    "1": {
+        "id": 1,
+        "featured": true,
+        "name": "Iñaki Villar",
+        "title": "Android Engineer",
+        "company": "Agoda",
+        "companyLogo": "",
+        "country": "Bangkok, Thailand",
+        "photoUrl": "/images/people/inaki_villar.jpg",
+        "shortBio": "I started working in Android 5 years ago, I felt in love with the platform and the community...",
+        "bio": "I started wokring in Android 5 years ago, I felt in love with the platform and the community.\nSince then I have been working with banking, airline, and storage apps in Spain and Ireland.\nRecently I moved to Bangkok to join Agoda.\nI have been involved in local communities/GDGs and\nactually I'm Google Developer Expert in Android",
+        "tags": [
+            "Android",
+            "gradle",
+            "testing"
+        ],
+        "badges": [
+            {
+                "name": "GDE",
+                "description": "Android Google Developer Expert",
+                "link": "https://developers.google.com/experts/people/i-aki-villar"
+            }
+
+        ],
+        "socials": [
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/inyaki_mwc"
+            },
+            {
+                "icon": "gplus",
+                "name": "Google+",
+                "link": "https://plus.google.com/+I%C3%B1akiVillar"
+            }
+        ]
+    },
+
+
+
+    "2": {
+        "id": 2,
+        "featured": true,
+        "name": "Taylor Ling",
+        "title": "Designer",
+        "company": "Fabulous Co./Snappymob",
+        "companyLogo": "",
+        "country": "Kuala Lumpur, Malaysia",
+        "photoUrl": "/images/people/taylor_ling.png",
+        "shortBio": "I am a professional Mobile Product Designer and passionate about good mobile UI/UX....",
+        "bio": "I am a professional Mobile Product Designer and passionate about good mobile UI/UX.\nPreviously I worked in a 3D printing company on their life-saving medical software.\nToday, I works at Snappymob, a startup in Kuala Lumpur making a difference in the local mobile app development scene by creating high quality apps that users love.\nI also involved heavily in designing Fabulous, a habit-forming app that got into Google Play Store Editor's Choice and nominated in Google Play Award.",
+        "tags": [
+            "Visual Design",
+            "Interaction Design",
+            "Motion Design"
+        ],
+        "badges": [
+            {
+                "name": "GDE",
+                "description": "UX/UI Google Developer Expert",
+                "link": "https://developers.google.com/experts/people/yonatan-levin.html"
+            }
+        ],
+        "socials": [
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/taylorling"
+            },
+            {
+                "icon": "gplus",
+                "name": "Google+",
+                "link": "https://plus.google.com/+TaylorLing"
+            }
+        ]
+    },
+
+
+
+
+    "3": {
+        "id": 3,
+        "featured": true,
+        "name": "Poe Poe Myint Swe",
+        "title": "Software Engineer",
+        "company": "99.co",
+        "companyLogo": "/images/logos/duetsche telekom ag - group innovation+.png",
+        "country": "Singapore",
+        "photoUrl": "/images/people/poepoe.jpg",
+        "shortBio": "I am a software engineer at 99.co, together with the product team...",
+        "bio": "I am a software engineer at 99.co, together with the product team.\nI mainly work on shipping features of Android app. Also a member of MMAUG and\ncontributes to android projects like Myanmar Flood Info.",
+        "tags": [
+            "Android"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": "https://www.facebook.com/poepoe88"
+            },
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/PoePoeMyintSwe"
+            }
+        ]
+    },
+
+
+   
+    "4": {
+        "id": 4,
+        "featured": true,
+        "name": "Su Mon Kywe",
+        "title": "Research Scientist",
+        "company": "Appthority",
+        "companyLogo": "",
+        "country": "San Francisco",
+        "photoUrl": "/images/people/sumon.jpg",
+        "shortBio": "Su Mon Kywe is a research scientist at Appthority, a mobile security start-up in San Francisco....",
+        "bio": "Su Mon Kywe is a research scientist at Appthority, a mobile security start-up in San Francisco. She obtained her Ph.D. and B.Sc. degrees from Singapore Management University (SMU). She was also an exchange scholar at Carnegie Mellon University (CMU). She did her internships in Samsung Research America, SAS Institute and IBM Singapore. Su Mon Kywe is known for her contributions to Apple’s iOS and Google’s Android security.",
+        "tags": [
+           "Mobile Security",
+            "Wearable Security",
+            "IOT Security"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "linkedin",
+                "name": "Linkedin",
+                "link": "https://sg.linkedin.com/in/sumonkywe"
+            }
+        ]
+    },
+    "5": {
+        "id": 5,
+        "featured": false,
+        "name": "Soe Thiha Naung",
+        "title": "Chief Trainier",
+        "company": "Myanmar Links",
+        "companyLogo": "",
+        "country": "Myanmar",
+        "photoUrl": "/images/people/thiha.jpg",
+        "shortBio": "I am Web and Android Trainer at Myanmar Links...",
+        "bio": "I am Web and Android Trainer at Myanmar Links. I am also a web developer and an Android developer too.",
+        "tags": [
+            "Web",
+            "Android"
+        ],
+        "badges": [
+            {
+            
+            }
+        ],
+        "socials": [
+            {
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": "https://www.facebook.com/soethihanaung"
+            }
+        ]
+    },
+    "6": {
+        "id": 6,
+        "featured": false,
+        "name": "Maung Maung Thant",
+        "title": "Cloud & Drupal Solutions Architect/Trainer",
+        "company": "MyanNet",
+        "companyLogo": "",
+        "country": "Singapore",
+        "photoUrl": "/images/people/mgmg.jpeg",
+        "shortBio": "A Solution Architect, Trainer, Contributor & Learner in Drupal, Cloud, Web Performance Optimization and Security...",
+        "bio": "A Solution Architect, Trainer, Contributor & Learner in Drupal, Cloud, Web Performance Optimization and Security. A volunteer and Love to help people to make their lives easier. Feel free to contact me on Facebook or connect with me on Linkedin to view all my Volunteer works and projects for clients. See you at GDG DevFest Yangon 2016. <3 <3 <3",
+        "tags": [
+            "Cloud",
+            "Web"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://sg.linkedin.com/in/everlearner"
+            },
+            {
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": "https://www.facebook.com/everlearner"
+            }
+            
+        ]
+    },
+    "7": {
+        "id": 7,
+        "featured": false,
+        "name": "Aung Pyae Phyo",
+        "title": "Product Manager",
+        "company": "Legacy Music Network",
+        "companyLogo": "",
+        "country": "Singapore",
+        "photoUrl": "/images/people/aung.jpg",
+        "shortBio": "End-to-end mobile solution developer based in Myanmar and Singapore...",
+        "bio": "End-to-end mobile solution developer based in Myanmar and Singapore. Passionate on architecting the design-intensive solution to provide both usability and the delightful experience to the user. Focus on complete understanding of the market trajectory and user behaviors for the solution.",
+        "tags": [
+            "Android",
+            "testing"
+        ],
+        "badges": [
+            {
+                
+            }
+        ],
+        "socials": [
+            {
+                "icon": "gplus",
+                "name": "Google+",
+                "link": "https://plus.google.com/+AungPyaePhyo"
+            },
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/agpyaephyo"
+            },
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://sg.linkedin.com/in/aungpyaephyo"
+            }
+        ]
+    },
+    "8": {
+        "id": 8,
+        "featured": false,
+        "name": "Tin Aung Lin",
+        "title": "Research Engineer",
+        "company": "Frontiir",
+        "companyLogo": "",
+        "country": "Myanmar",
+        "photoUrl": "/images/people/tinaung.jpg",
+        "shortBio": "I am a research engineer at Frontiir. I usually spend my time hacking on system level engineering plus...",
+        "bio": "I am a research engineer at Frontiir. I usually spend my time hacking on system level engineering plus ops related reporting, troubleshooting and monitoring. Research on the new systems and software to solve our very own specific problems in ISP market. And propose reliable systems to implement and test on production.",
+        "tags": [
+            "Cloud",
+            "Web"
+        ],
+        "badges": [
+            {
+                
+            }
+        ],
+        "socials": [
+            {
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": "https://www.facebook.com/tinaunglinn91"
+            },
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": ""
+            }
+        ]
+    },
+    "9": {
+        "id": 9,
+        "featured": false,
+        "name": "Ko Ko Ye",
+        "title": "Team Leader",
+        "company": "Ubuntu Myanmar LoCo Team",
+        "companyLogo": "",
+        "country": "Myanmar",
+        "photoUrl": "/images/people/kokoye.jpg",
+        "shortBio": "I have played around with Linux since 2004...",
+        "bio": "I am a leader of the Ubuntu Myanmar LoCo Team and founder of the FOSS Myanmar. I acted as a technical support team leader of the biggest Barcamp of the world (Barcamp Yangon 2013) with our LoCo team members and also act as an Assistant Coordinator from 2013 to now. I Love Ubuntu and open sources such as OSS, FLOSS, GNU, GPL, MIT, Apache and so on.",
+        "tags": [
+            "Cloud",
+            "IoT"
+        ],
+        "badges": [
+          
+        ],
+        "socials": [
+            {
+                "icon": "gplus",
+                "name": "Google+",
+                "link": "https://plus.google.com/u/1/+KoKoYe"
+            },
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/kokoye2007"
+            },
+            {
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": "https://www.facebook.com/kokoye2007"
+            }
+        ]
+    },
+    "10": {
+        "id": 10,
+        "featured": false,
+        "name": "Ye Linn Wai",
+        "title": "Technology Community Liaison",
+        "company": "Phandeeyar",
+        "companyLogo": "",
+        "country": "Myanmar",
+        "photoUrl": "/images/people/moelone.jpeg",
+        "shortBio": "Ye Linn Wai @ Moe Lone is passionate about Technology to change the country...",
+        "bio": "Ye Linn Wai @ Moe Lone Pyae Shan is passionate about Technology to change the country. He jumped into IT circles since 15 years old. He started writing tech articles for well-known internet journal and lead the Myanmar IT Village website since he was in high school. He wrote two best-seller android books targeted for non-technical readers. He is the founder of Computer Science Club at University of Computer Studies, Yangon. He organized first ever Student Showcase at the University. Currently, he is a technology community liaison at Phandeeyar.  On top of that he’s the Community Manager for the GDG Yangon.",
+        "tags": [
+            "Community",
+            "Mobile"
+        ],
+        "badges": [
+            {
+                "name": "GDG",
+                "description": "Google Developers Group Yangon",
+                "link": "https://www.linkedin.com/in/yelinnwai"
+            }
+        ],
+        "socials": [
+            {
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": "http://facebook.com/moelonepyaeshan"
+            },
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/yelinnwai"
+            },
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "http://twitter.com/yelinnwai"
+            },
+            {
+                "icon": "gplus",
+                "name": "Google+",
+                "link": "https://plus.google.com/u/1/106817818423602461784"
+            }
+        ]
+    },
+    "12": {
+        "id": 12,
+        "featured": false,
+        "name": "Ei Maung",
+        "title": "Managing Partner",
+        "company": "Fairway Technology",
+        "companyLogo": "",
+        "country": "Myanmar",
+        "photoUrl": "/images/people/eimaung.jpg",
+        "shortBio": "Web developer with 10 years experiences and currently leading web and mobile app service...",
+        "bio": "Web developer with 10 years experiences and currently leading web and mobile app service agency called Fairway Technology as the managing partner. Also a principal of Fairway Co-founder school. Author of Professional Web Developer, Ubuntu - Linux for You and Rockstar Developer. Frequent speakers at tech events.",
+        "tags": [
+            "Web",
+            "AngularJS",
+            "Polymer"
+        ],
+        "badges": [
+            {
+                "name": "",
+                "description": "",
+                "link": ""
+            }
+        ],
+        "socials": [
+            {
+                "icon": "website",
+                "name": "Blog",
+                "link": "http://fairway.com.mm/"
+            },
+            {
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": "https://www.facebook.com/ei.mung"
+            }
+        ]
+    },
+    "13": {
+        "id": 13,
+        "featured": false,
+        "name": "Kyaw Zaw Win",
+        "title": "Senior Consultant",
+        "company": "MIRUM",
+        "companyLogo": "",
+        "country": "Singapore",
+        "photoUrl": "/images/people/kyawzaw.jpg",
+        "shortBio": "I have been working as software engineer, full stack and consultant for large scale products and...",
+        "bio": "I have been working as software engineer, full stack and consultant for large scale products and platform for over 9 years in which 7+ years in Singapore and counting. I am always motivated to find ways to build cost effectively maintainable software solution regardless of the size.",
+        "tags": [
+            "Web",
+            "AngularJS2"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://sg.linkedin.com/in/kyawzawwin1"
+            }
+        ]
+    },
+    "14": {
+        "id": 14,
+        "featured": false,
+        "name": "Phu Mon Htut",
+        "title": "Research Engineer",
+        "company": "Institute of High Performance Computing(A*STAR)",
+        "companyLogo": "/images/logos/",
+        "country": "Singapore",
+        "photoUrl": "/images/people/phymon.jpg",
+        "shortBio": "I'm a research engineer at Institute of High Performance Computing in Singapore...",
+        "bio": "I'm a research engineer at Institute of High Performance Computing in Singapore. I'm fascinated by Artificial Intelligence field and have strong passion for Machine Learning, Deep Neural Networks. Currently, I'm working on research and development of Machine Learning, Deep Neural Networks and their applications in Natural Language Processing. ",
+        "tags": [
+            "Cloud",
+            "Machine Learning",
+            "Tensorflow"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "linkedin",
+                "name": "Linkedin",
+                "link": "https://linkedin.com/in/phumonhtut"
+            },
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/phu_pmh"
+            }
+        ]
+    },
+    "15": {
+        "id": 15,
+        "featured": false,
+        "name": "Dr. Tun Thura Thet",
+        "title": "CEO",
+        "company": "Myanmar Information Technology",
+        "companyLogo": "/images/logos/",
+        "country": "Myanmar",
+        "photoUrl": "/images/people/dr.tun.jpg",
+        "shortBio": "Tun is the founder and CEO of Myanmar Information Technology Pte Ltd (MIT), the leading enterprise software development...",
+        "bio": "Tun is the founder and CEO of Myanmar Information Technology Pte Ltd (MIT), the leading enterprise software development and System Integration Company in Myanmar. Tun is also the director and co-founder of Myanmar ICT Development Corporation, and the Joint Secretary of Myanmar Computer Federation (MCF), the federation of computer industrial and professional associations, as well as the chairman of the Myanmar Software Industry Development Committee (SIDC).",
+        "tags": [
+            "Cloud",
+            "Big Data",
+            "AI"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "linkedin",
+                "name": "Linkedin",
+                "link": "https://mm.linkedin.com/in/tun-thura-thet-561a871"
+            }
+        ]
+    },
+    "17": {
+        "id": 17,
+        "featured": false,
+        "name": "Soonson Kwon",
+        "title": "Head of APAC Ecosystem, Developer Relations",
+        "company": "Google",
+        "companyLogo": "/images/logos/google.svg",
+        "country": "Seoul, Korea",
+        "photoUrl": "/images/people/soonson.jpg",
+        "shortBio": "I am manager of DevRel APAC Ecosystem and Korea Regional Lead both working on building...",
+        "bio": "I am manager of DevRel APAC Ecosystem and Korea Regional Lead both working on building strong ecosystem for developers. 20 years ago at 1996, I founded KLDP, Korea's largest/oldest open source community as well.",
+        "tags": [
+           "Cloud"
+        ],
+        "badges": [
+          
+        ],
+        "socials": [
+           
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/ksoonson"
+            }, 
+            {
+                "icon": "github",
+                "name": "GitHub",
+                "link": ""
+            }
+        ]
+    },
+    "16": {
+        "id": 16,
+        "featured": false,
+        "name": "Ei Wai Wai Thein",
+        "title": "Senior Mobile Engineer",
+        "company": "Tribal Worldwide",
+        "companyLogo": "/images/logos/",
+        "country": "Singapore",
+        "photoUrl": "/images/people/eiwai.jpg",
+        "shortBio": "A mobile engineer. Strong on native iOS and Android development...",
+        "bio": "A mobile engineer. Strong on native iOS and Android development. Currently working for Samsung product apps with native android development.",
+        "tags": [
+            "Android",
+            "iOS"
+        ],
+        "badges": [
+           
+        ],
+        "socials": [
+            {
+                "icon": "linkedin",
+                "name": "Linkedin",
+                "link": "www.linkedin.com/in/eiwaithein"
+            },
+            {
+                "icon": "gitHub",
+                "name": "GitHub",
+                "link": "https://github.com/eiwaithein"
+            }
+        ]
+    },
+    "19": {
+        "id": 19,
+        "featured": false,
+        "name": "Thar Htet",
+        "title": "Coder in Chief",
+        "company": "ZWENEXSYS",
+        "companyLogo": "/images/logos/",
+        "country": "Myanmar",
+        "photoUrl": "/images/people/tharhtet.jpg",
+        "shortBio": "Computer Engineer, Software Developer based in Yangon.",
+        "bio": "Computer Engineer, Software Developer based in Yangon.",
+        "tags": [
+            "Android",
+            "Cloud",
+            "Entrepreneurship"
+        ],
+        "badges": [
+           
+        ],
+        "socials": [
+            {
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": "https://www.facebook.com/kotharthar"
+            }
+        ]
+    },
+   
+  
+    "22": {
+        "id": 22,
+        "featured": false,
+        "name": "Win Htaik Aung",
+        "title": "Android Developer",
+        "company": "Global DataBank",
+        "companyLogo": "/images/logos/",
+        "country": "Singapore",
+        "photoUrl": "/images/people/winhtaik.png",
+        "shortBio": "Mobile app Developer at Global Databank.",
+        "bio": "Mobile app Developer at Global Databank.",
+        "tags": [
+           
+            "Android"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+           
+            {
+                "icon": "github",
+                "name": "GitHub",
+                "link": "github.com/winhtaikaung"
+            }
+        ]
+    }
 }

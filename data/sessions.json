@@ -1,15 +1,317 @@
 {
   "1": {
-    "complexity": "Beginner",
-    "description": "Do you remember the game Simon says from the 80s? I don’t know about you, but I know many that spent hours trying to press those specific sequences of red, green, blue and yellow buttons in the correct order. But why play on your own? We’ve implemented a gRPC server that allows you to play Simon with other players over the internet!\n\nIn this workshop we will dive into the toolset and libraries to build your very own Simon Says client for this server. We will have a message description in Protocol Buffers format and some stub code in several languages ready for you to play with. The goal for this workshop is for you to have a working client that you can use to play (and beat!) other attendees of the workshop.",
+    "complexity": "",
+    "description": "",
     "id": 1,
+    "language": "",
+    "speakers": [
+     
+    ],
+    "tags": [
+     
+    ],
+    "title": "Registration"
+  },
+
+  "2": {
+    "complexity": "",
+    "description": "In this talk we are going to see how to set up the Firebase Test Lab in Android and use the latest version of Android Studio to improve the quality of our apps using features like Espresso Recorder",
+    "id": 2,
+    "language": "English, Myanmar",
+    "speakers": [
+      2
+    ],
+    "tags": [
+      
+    ],
+    "title": "Welcome & Introduction to GDG Yangon"
+  },
+
+  "3": {
+    "complexity": "Expert",
+    "description": "In this talk we are going to see how to set up the Firebase Test Lab in Android and use the latest version of Android Studio to improve the quality of our apps using features like Espresso Recorder",
+    "id": 3,
+    "language": "Myanmar",
+    "speakers": [
+      15
+    ],
+    "tags": [
+      "Cloud",
+      "Big Data",
+      "AI"
+    ],
+    "title": "Keynote: Youth, Technology and Disruptive Innovation"
+  },
+
+  "4": {
+    "complexity": "Expert",
+    "description": "In this talk we are going to see how to set up the Firebase Test Lab in Android and use the latest version of Android Studio to improve the quality of our apps using features like Espresso Recorder",
+    "id": 4,
+    "language": "Myanmar",
+    "speakers": [
+      2
+    ],
+    "tags": [
+     "Visual Design",
+      "Interaction Design",
+      "Motion Design"
+    ],
+    "title": "Keynote: Youth, Technology and Disruptive Innovation"
+  },
+
+  "5": {
+    "complexity": "Beginner",
+    "description": "In this talk we are going to see how to set up the Firebase Test Lab in Android and use the latest version of Android Studio to improve the quality of our apps using features like Espresso Recorder",
+    "id": 5,
     "language": "English",
     "speakers": [
       1
     ],
     "tags": [
-      "Cloud"
+       "Android",
+        "gradle",
+        "testing"
     ],
-    "title": "Hands-on gRPC experience building your own multiplayer game client"
+    "title": "Building quality apps with Firebase Test Lab and Android Studio 2.0"
+  },
+
+   "6": {
+    "complexity": "Beginner",
+    "description": "In this talk we are going to see how to set up the Firebase Test Lab in Android and use the latest version of Android Studio to improve the quality of our apps using features like Espresso Recorder",
+    "id": 6,
+    "language": "Myanmar",
+    "speakers": [
+      12
+    ],
+    "tags": [
+        "Web",
+        "AngularJS",
+        "Polymer"
+    ],
+    "title": "What exactely is Web Components"
+  },
+
+   "7": {
+    "complexity": "Beginner",
+    "description": "In this talk we are going to see how to set up the Firebase Test Lab in Android and use the latest version of Android Studio to improve the quality of our apps using features like Espresso Recorder",
+    "id": 7,
+    "language": "Myanmar",
+    "speakers": [
+      7
+    ],
+    "tags": [
+         "Android",
+          "testing"
+    ],
+    "title": "Road to becoming Professional Android Developer at International Level"
+  },
+
+   "8": {
+    "complexity": "Beginner",
+    "description": "In this talk we are going to see how to set up the Firebase Test Lab in Android and use the latest version of Android Studio to improve the quality of our apps using features like Espresso Recorder",
+    "id": 8,
+    "language": "Myanmar",
+    "speakers": [
+      9
+    ],
+    "tags": [
+        "Cloud",
+        "IoT"
+    ],
+    "title": "Google Cloud and IoT"
+  },
+
+   "9": {
+    "complexity": "Beginner",
+    "description": "In this talk we are going to see how to set up the Firebase Test Lab in Android and use the latest version of Android Studio to improve the quality of our apps using features like Espresso Recorder",
+    "id": 9,
+    "language": "Myanmar",
+    "speakers": [
+      3
+    ],
+    "tags": [
+        "Android"
+    ],
+    "title": "Working with Recyclerview"
+  },
+
+   "10": {
+    "complexity": "Beginner",
+    "description": "In this talk we are going to see how to set up the Firebase Test Lab in Android and use the latest version of Android Studio to improve the quality of our apps using features like Espresso Recorder",
+    "id": 10,
+    "language": "Myanmar",
+    "speakers": [
+      8
+    ],
+    "tags": [
+        "Android"
+    ],
+    "title": "Run your apps in containers like docker on GCP"
+  },
+
+  "11": {
+    "complexity": "Beginner",
+    "description": "In this talk we are going to see how to set up the Firebase Test Lab in Android and use the latest version of Android Studio to improve the quality of our apps using features like Espresso Recorder",
+    "id": 11,
+    "language": "English",
+    "speakers": [
+      17
+    ],
+    "tags": [
+        "Cloud"
+    ],
+    "title": "Keynote - Machine Learning & Tensorflow 101"
+  },
+
+  "22": {
+    "complexity": "Beginner",
+    "description": "In this talk we are going to see how to set up the Firebase Test Lab in Android and use the latest version of Android Studio to improve the quality of our apps using features like Espresso Recorder",
+    "id": 22,
+    "language": "Myanmar",
+    "speakers": [
+      
+    ],
+    "tags": [
+        "Web"
+    ],
+    "title": "TBA"
+  },
+
+  "33": {
+    "complexity": "Beginner",
+    "description": "In this talk we are going to see how to set up the Firebase Test Lab in Android and use the latest version of Android Studio to improve the quality of our apps using features like Espresso Recorder",
+    "id": 33,
+    "language": "Myanmar",
+    "speakers": [
+      5
+    ],
+    "tags": [
+        "Web",
+        "Android"
+    ],
+    "title": "Android as a Front-end and Web as a Back-end"
+  },
+
+"44": {
+    "complexity": "Beginner",
+    "description": "In this talk we are going to see how to set up the Firebase Test Lab in Android and use the latest version of Android Studio to improve the quality of our apps using features like Espresso Recorder",
+    "id": 44,
+    "language": "Myanmar",
+    "speakers": [
+      16
+    ],
+    "tags": [
+         "Android",
+            "iOS"
+    ],
+    "title": "Quality Assurance for Android Apps."
+  },
+
+  "55": {
+    "complexity": "Beginner",
+    "description": "In this talk we are going to see how to set up the Firebase Test Lab in Android and use the latest version of Android Studio to improve the quality of our apps using features like Espresso Recorder",
+    "id": 55,
+    "language": "Myanmar",
+    "speakers": [
+      6
+    ],
+    "tags": [
+        "Cloud",
+        "Web"
+    ],
+    "title": "How Cloud Technologies Can Make People Lives Easier"
+  },
+
+   "66": {
+    "complexity": "Beginner",
+    "description": "In this talk we are going to see how to set up the Firebase Test Lab in Android and use the latest version of Android Studio to improve the quality of our apps using features like Espresso Recorder",
+    "id": 66,
+    "language": "Myanmar",
+    "speakers": [
+      22
+    ],
+    "tags": [
+        "Android"
+    ],
+    "title": "Android Codelab"
+  },
+
+   "77": {
+    "complexity": "Beginner",
+    "description": "In this talk we are going to see how to set up the Firebase Test Lab in Android and use the latest version of Android Studio to improve the quality of our apps using features like Espresso Recorder",
+    "id": 77,
+    "language": "Myanmar",
+    "speakers": [
+      14
+    ],
+    "tags": [
+         "Cloud",
+          "Machine Learning",
+          "Tensorflow"
+    ],
+    "title": "Cloud Codelab"
+  },
+
+   "88": {
+    "complexity": "Beginner",
+    "description": "In this talk we are going to see how to set up the Firebase Test Lab in Android and use the latest version of Android Studio to improve the quality of our apps using features like Espresso Recorder",
+    "id": 88,
+    "language": "Myanmar",
+    "speakers": [
+      19
+    ],
+    "tags": [
+         "Android",
+          "Cloud",
+          "Entrepreneurship"
+    ],
+    "title": "Serverless Web Applications"
+  },
+
+ "99": {
+    "complexity": "Beginner",
+    "description": "In this talk we are going to see how to set up the Firebase Test Lab in Android and use the latest version of Android Studio to improve the quality of our apps using features like Espresso Recorder",
+    "id": 99,
+    "language": "Myanmar",
+    "speakers": [
+      13
+    ],
+    "tags": [
+         "Web",
+        "AngularJS2"
+    ],
+    "title": "Build an on-demand modular SPA with AngularJS 2 "
+  },
+
+   "101": {
+    "complexity": "Beginner",
+    "description": "In this talk we are going to see how to set up the Firebase Test Lab in Android and use the latest version of Android Studio to improve the quality of our apps using features like Espresso Recorder",
+    "id": 101,
+    "language": "Myanmar",
+    "speakers": [
+      4
+    ],
+    "tags": [
+          "Mobile Security",
+          "Wearable Security",
+          "IOT Security"
+    ],
+    "title": "How to create secure Android applications?"
+  },
+
+
+  "15": {
+    "complexity": "Intermediate",
+    "description": "In this talk we are going to see how to set up the Firebase Test Lab in Android and use the latest version of Android Studio to improve the quality of our apps using features like Espresso Recorder",
+    "id": 15,
+    "language": "English",
+    "speakers": [
+      5
+    ],
+    "tags": [
+      "Android",
+      "Firebase"
+    ],
+    "title": "Building quality apps with Firebase Test Lab and Android Studio 2.0"
   }
 }
