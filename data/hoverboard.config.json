@@ -1,232 +1,232 @@
 {
   "callToAction": {
-      "videoId": "DfMnJAzOFng",
-      "videoTitle": "action-title"
-    },
+    "videoId": "DfMnJAzOFng",
+    "videoTitle": "action-title"
+  },
   "contactBlock": {
-      "links": [
-            {
-                    "text": "gdgyangon@gmail.com",
-                    "url": "mailto:gdgyangon@gmail.com"
-                  }
-          ]
-    },
+    "links": [
+      {
+        "text": "gdgyangon@gmail.com",
+        "url": "mailto:gdgyangon@gmail.com"
+      }
+    ]
+  },
   "disqusShortName": "hoverboard-gdg-x",
   "footerBlocks": [
-      {
-            "links": [
-                    {
-                              "text": "team",
-                              "url": "/team/"
-                            },
-                    {
-                              "text": "cod",
-                              "url": "/cod/"
-                            },
-                    {
-                              "newTab": true,
-                              "text": "google-developers",
-                              "url": "https://developers.google.com/"
-                            },
-                    {
-                              "newTab": true,
-                              "text": "df-13",
-                              "url": "http://gdg-devfest-ua.appspot.com/"
-                            },
-                    {
-                              "newTab": true,
-                              "text": "df-14",
-                              "url": "http://devfest.gdg.org.ua/2014/"
-                            },
-                    {
-                              "newTab": true,
-                              "text": "df-15",
-                              "url": "http://devfest.gdg.org.ua/2015/"
-                            }
-                  ],
-            "title": "for-visitors"
-          },
-      {
-            "links": [
-                    {
-                              "newTab": true,
-                              "text": "partnership-proposition",
-                              "url": ""
-                            },
-                    {
-                              "newTab": true,
-                              "text": "media-kit",
-                              "url": ""
-                            }
-                  ],
-            "title": "for-partners"
-          }
-    ],
-  "gallery": {
-      "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
-      "photos": {
-            "big": "/images/backgrounds/2015_1.jpg",
-            "small": [
-                    "/images/backgrounds/2015_2.jpg",
-                    "/images/backgrounds/2015_3.jpg"
-                  ]
-          }
+    {
+      "links": [
+        {
+          "text": "team",
+          "url": "/team/"
+        },
+        {
+          "text": "cod",
+          "url": "/cod/"
+        },
+        {
+          "newTab": true,
+          "text": "google-developers",
+          "url": "https://developers.google.com/"
+        },
+        {
+          "newTab": true,
+          "text": "df-13",
+          "url": "http://gdg-devfest-ua.appspot.com/"
+        },
+        {
+          "newTab": true,
+          "text": "df-14",
+          "url": "http://devfest.gdg.org.ua/2014/"
+        },
+        {
+          "newTab": true,
+          "text": "df-15",
+          "url": "http://devfest.gdg.org.ua/2015/"
+        }
+      ],
+      "title": "for-visitors"
     },
+    {
+      "links": [
+        {
+          "newTab": true,
+          "text": "partnership-proposition",
+          "url": ""
+        },
+        {
+          "newTab": true,
+          "text": "media-kit",
+          "url": ""
+        }
+      ],
+      "title": "for-partners"
+    }
+  ],
+  "gallery": {
+    "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
+    "photos": {
+      "big": "/images/backgrounds/2015_1.jpg",
+      "small": [
+        "/images/backgrounds/2015_2.jpg",
+        "/images/backgrounds/2015_3.jpg"
+      ]
+    }
+  },
   "hashtag": "DEVFESTMM",
   "languages": [
-      {
-            "key": "en",
-            "name": "English"
-          },
-      {
-            "key": "uk",
-            "name": "Українська"
-          }
-    ],
+    {
+      "key": "en",
+      "name": "English"
+    },
+    {
+      "key": "uk",
+      "name": "Українська"
+    }
+  ],
   "location": {
-      "apiKey": "",
-      "images": [
-            "/images/backgrounds/location_1.jpg",
-            "/images/backgrounds/location_2.jpg",
-            "/images/backgrounds/location_3.jpeg"
-          ],
-      "link": "",
-      "mapCenter": {
-            "latitude": 16.850132,
-            "longitude": 96.128514
-          },
-      "pointer": {
-            "latitude": 16.850132,
-            "longitude": 96.128514,
-            "zoom": 15
-          }
-    },
-  "mailchimp": {
-      "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe",
-      "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe"
-    },
-  "navigation": [
-      {
-            "permalink": "/",
-            "route": "home"
-          }
+    "apiKey": "",
+    "images": [
+      "/images/backgrounds/location_1.jpg",
+      "/images/backgrounds/location_2.jpg",
+      "/images/backgrounds/location_3.jpeg"
     ],
-  "pages": {
-      "blog": {
-            "headerSettings": {
-                    "backgroundColor": "#03a9f4",
-                    "fontColor": "#fff",
-                    "tabBarColor": "#fff"
-                  }
-          },
-      "cod": {
-            "headerSettings": {
-                    "backgroundColor": "#673ab7",
-                    "fontColor": "#fff",
-                    "tabBarColor": "#fff"
-                  }
-          },
-      "home": {
-            "headerSettings": {
-                    "backgroundColor": "#00BCD4",
-                    "backgroundImage": "/images/backgrounds/home.jpeg",
-                    "fontColor": "#fff",
-                    "hideLogo": true,
-                    "minHeight": "360px",
-                    "tabBarColor": "#fff"
-                  }
-          },
-      "schedule": {
-            "headerSettings": {
-                    "backgroundColor": "#673ab7",
-                    "fontColor": "#fff",
-                    "tabBarColor": "#fff"
-                  }
-          },
-      "speakers": {
-            "headerSettings": {
-                    "backgroundColor": "#3f51b5",
-                    "fontColor": "#fff",
-                    "tabBarColor": "#fff"
-                  }
-          },
-      "team": {
-            "headerSettings": {
-                    "backgroundColor": "#009688",
-                    "fontColor": "#fff",
-                    "tabBarColor": "#fff"
-                  }
-          }
+    "link": "",
+    "mapCenter": {
+      "latitude": 16.850132,
+      "longitude": 96.128514
     },
+    "pointer": {
+      "latitude": 16.850132,
+      "longitude": 96.128514,
+      "zoom": 15
+    }
+  },
+  "mailchimp": {
+    "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe",
+    "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe"
+  },
+  "navigation": [
+    {
+      "permalink": "/",
+      "route": "home"
+    }
+  ],
+  "pages": {
+    "blog": {
+      "headerSettings": {
+        "backgroundColor": "#03a9f4",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "cod": {
+      "headerSettings": {
+        "backgroundColor": "#673ab7",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "home": {
+      "headerSettings": {
+        "backgroundColor": "#00BCD4",
+        "backgroundImage": "/images/backgrounds/home.jpeg",
+        "fontColor": "#fff",
+        "hideLogo": true,
+        "minHeight": "360px",
+        "tabBarColor": "#fff"
+      }
+    },
+    "schedule": {
+      "headerSettings": {
+        "backgroundColor": "#673ab7",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "speakers": {
+      "headerSettings": {
+        "backgroundColor": "#3f51b5",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "team": {
+      "headerSettings": {
+        "backgroundColor": "#009688",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    }
+  },
   "partnershipProposition": "https://goo.gl/FQAC0s",
   "social": [
-      {
-            "name": "twitter",
-            "nickname": "GDGYangon",
-            "url": "https://twitter.com/gdgyangon"
-          },
-      {
-            "name": "gplus",
-            "nickname": "102444623953913144164",
-            "url": "https://plus.google.com/102444623953913144164"
-          },
-      {
-            "name": "facebook",
-            "nickname": "GDGYangon",
-            "url": "https://www.facebook.com/gdgyangon"
-          }
-    ],
+    {
+      "name": "twitter",
+      "nickname": "GDGYangon",
+      "url": "https://twitter.com/gdgyangon"
+    },
+    {
+      "name": "gplus",
+      "nickname": "102444623953913144164",
+      "url": "https://plus.google.com/102444623953913144164"
+    },
+    {
+      "name": "facebook",
+      "nickname": "GDGYangon",
+      "url": "https://www.facebook.com/gdgyangon"
+    }
+  ],
   "statistics": [
-      {
-            "caption": "attendees",
-            "counter": 400
-          },
-      {
-            "caption": "days",
-            "counter": 2
-          },
-      {
-            "caption": "sessions",
-            "counter": 20
-          },
-      {
-            "caption": "tracks",
-            "counter": 2
-          }
-    ],
+    {
+      "caption": "attendees",
+      "counter": 400
+    },
+    {
+      "caption": "days",
+      "counter": 2
+    },
+    {
+      "caption": "sessions",
+      "counter": 20
+    },
+    {
+      "caption": "tracks",
+      "counter": 2
+    }
+  ],
   "teamPageText": "team-page-text",
   "teamPageTitle": "team-page-title",
   "tickets": {
-      "elements": [
-            {
-                    "currency": "Ks",
-                    "ends": "student-ticket-ends",
-                    "info": "student-ticket-info",
-                    "name": "student-ticket",
-                    "price": 5000,
-                    "soldOut": true,
-                    "starts": "student-ticket-starts"
-                  },
-            {
-                    "currency": "Ks",
-                    "ends": "early-ticket-ends",
-                    "info": "early-ticket-info",
-                    "name": "early-ticket",
-                    "price": 10000,
-                    "soldOut": true,
-                    "starts": "early-ticket-starts"
-                  },
-            {
-                    "currency": "Ks",
-                    "ends": "lazy-ticket-ends",
-                    "name": "lazy-ticket",
-                    "price": 20000,
-                    "soldOut": true,
-                    "starts": "lazy-ticket-starts"
-                  }
-          ],
-      "url": "https://goo.gl/RhqdMO"
-    },
+    "elements": [
+      {
+        "currency": "Ks",
+        "ends": "student-ticket-ends",
+        "info": "student-ticket-info",
+        "name": "student-ticket",
+        "price": 5000,
+        "soldOut": true,
+        "starts": "student-ticket-starts"
+      },
+      {
+        "currency": "Ks",
+        "ends": "early-ticket-ends",
+        "info": "early-ticket-info",
+        "name": "early-ticket",
+        "price": 10000,
+        "soldOut": true,
+        "starts": "early-ticket-starts"
+      },
+      {
+        "currency": "Ks",
+        "ends": "lazy-ticket-ends",
+        "name": "lazy-ticket",
+        "price": 20000,
+        "soldOut": true,
+        "starts": "lazy-ticket-starts"
+      }
+    ],
+    "url": "https://goo.gl/RhqdMO"
+  },
   "tweetsSource": "/data/tweets.json",
   "url": "https://hoverboard.firebaseapp.com/"
 }
